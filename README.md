@@ -2,7 +2,7 @@
 
 "If adopted by everyone, we can end suffering and create happiness around the world. We are all connected."
 
-In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. While the **Golden Runway** provides an Innovation Warranty for employers and **Liquid Cash 24** provides a Sovereign Standard for individuals stability, **GiveOne** is a powerful framework designed to solve problems for everyone. Everyone need a helping hand at some point of time in their life. GiveOne is a solid human chain of holding hands around the world. 
+In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. While the **Golden Runway** provides an Innovation Warranty for employers and **Liquid Cash 24** provides a Sovereign Standard for individuals stability, **GiveOne** is a decentralized, self-commitment framework for direct giving, dedicating 1% of earnings and 1% of time to empower those in need and protect nature. Everyone need a helping hand at some point of time in their life. GiveOne is a powerful human chain of holding hands around the world. 
 
 GiveOne is a self-commitment model that creates a global support for everyone in need & Nature, ensuring that as we advance, we do not leave anyone or our planet behind.
 
