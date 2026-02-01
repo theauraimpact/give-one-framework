@@ -9,7 +9,7 @@ GiveOne is a self-commitment model that creates a global support system for ever
 ---
 
 ## 📖 The Core Pledge
-**#GiveOne#**
+**#GiveOne**
 Let's donate 1% of what we earn and 1% of our time to help those in need & Nature. Make a difference. We are all connected.
 
 * **A Self-Commitment:** This is a personal dedication for giving by an individual and is not associated with any person or organization.
