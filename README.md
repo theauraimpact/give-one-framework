@@ -33,7 +33,7 @@ GiveOne is not an organization that accumulates funds. It is a framework that op
 
 ---
 
-## 🛡️ The Framework Logic: Why 1%?
+## 🧩 The Framework Logic: Why 1%?
 
 ### 1. The Power of Numbers
 If everyone in a city donates 1% to people in their own city, no one in that city will sleep without a roof or an empty stomach. Food and shelter for all is possible; small donations in large numbers make a massive difference. Most of the time when someone needs help, they just need a temporary support by one helping hand.
