@@ -1,4 +1,4 @@
-# <img src="giveone.png" width="32" height="32" valign="middle"> GiveOne: The Universal Blueprint for Collective Power
+# <img src="giveone.png" width="37" height="37" valign="middle"> GiveOne: The Universal Blueprint for Collective Power
 
 "If adopted by everyone, we can end suffering and create happiness around the world. We are all connected."
 
