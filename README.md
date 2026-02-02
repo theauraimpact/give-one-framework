@@ -59,8 +59,7 @@ Giving can be integrated directly into your profession:
 To launch the GiveOne project, we are addressing a high-priority need for **January 2026**: supporting individuals impacted by massive corporate layoffs. The GFE is a high-trust, decentralized system designed to continue the current salary of impacted employees until they secure new employment.
 
 ### ✈️ First Active Reachout: The Home Depot (800 Employees)
-We are working to establish the GFE system starting with the 800 impacted individuals at The Home Depot due to layoffs on **Jan 28th, 2026**. The goal is to ensure their monthly take-home pay continues without interruption through a community-backed "Givers Fund for Employees." Employees will remain on payroll until March 31, 2026.
-Severance package after that is currently assumed to be 6 weeks based on limited clarity from company at this time. GFE support will start when Home Depot transition period ends and is extended to employees until successful transition to new job.
+We are working to establish the GFE system starting with the 800 impacted individuals at The Home Depot due to layoffs on **Jan 28th, 2026**. The goal is to ensure their monthly take-home pay continues without interruption through a community-backed "Givers Fund for Employees." Exact number of months of payroll extension or severance package provided by The Home Depot company to employees is not clear at this time. GFE support will start when Home Depot transition period ends and is extended to employees until successful transition to new job.
 
 ### ⚙️ The GFE Blueprint (6-Step Execution)
 1.  **Institutional Setup:** Create a bank account authorized by the company (e.g., The Home Depot).
