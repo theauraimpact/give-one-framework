@@ -3,7 +3,7 @@
 ### Executive Summary: Givers Fund for Employees (GFE)
 **A High-Trust Framework for Corporate Transitions**
 
-**To:** Leadership & Social Responsibility Teams (Company name)  
+**To:** Leadership & Social Responsibility Teams - The Corporation (e.g., Home Depot / Amazon)  
 **From:** The Aura Impact  
 **Objective:** To implement a decentralized, community-backed bridge for employees impacted by the January 2026 transitions.
 
