@@ -10,12 +10,12 @@
 **The Vision** Layoffs are a challenging reality of enterprise evolution. The GFE is a visionary "Sovereign Standard" that ensures impacted employees maintain 100% of their take-home pay through a high-trust, community-funded bridge until they secure their next role. We turn a corporate exit into a human-centric transition.
 
 **The Institutional Blueprint (6-Step Security)** To ensure absolute financial integrity and regulatory compliance, the GFE operates through your existing infrastructure:
-1. **Authorized Escrow:** The Company establishes a restricted bank account dedicated specifically to the "Givers Fund for Employees."
+1. **Authorized Restricted Account:** The Company establishes a Restricted Fund Account (RCA) dedicated specifically to the "Givers Fund for Employees."
 2. **Corporate Endorsement:** The Company announces the fund to its global community and partners. The Aura Impact provides the awareness engine.
-3. **Decentralized Funding:** Givers worldwide (utilizing the #GiveOne framework) transfer funds directly to the corporate-managed account.
+3. **Decentralized Funding:** Givers worldwide (utilizing the #GiveOne framework) transfer funds directly to the corporate-managed RCA.
 4. **Payroll Integration:** Funds are distributed through your existing payroll system. This ensures tax compliance, verified identity, and zero risk of external fund accumulation.
 5. **Live Transparency:** The Aura Impact hosts a real-time dashboard tracking support levels and transition success rates.
-6. **Account Sunset:** Once the target group (e.g., the 800 at Home Depot or the 16,000 at Amazon) has successfully transitioned to new employment, the account is closed.
+6. **Account Sunset:** Once the target group (e.g., the 800 at Home Depot or the 16,000 at Amazon) has successfully transitioned to new employment, the RCA is closed.
 
 **Why Partner with the GFE?**
 
@@ -26,7 +26,7 @@
 | **Stability** | Prevents family financial crises, maintaining community goodwill. |
 | **Global Standard** | Pioneers a new standard for collective responsibility. |
 
-**Call to Action: The January 28th Initiative** We are seeking to immediately architect the restricted GFE accounts with your designated financial partners (e.g., JPMorgan Chase).  
+**Call to Action: The January 28th Initiative** We are seeking to immediately architect the Restricted Fund Accounts (RCA) with your designated financial partners (e.g., JPMorgan Chase).  
 **Next Step:** A 15-minute briefing with your HR and Treasury leadership to review the restricted account parameters.  
 **Contact:** theauraimpact@gmail.com  
 **Website:** [The Aura Impact Platform](https://theauraimpact.io)
@@ -35,11 +35,11 @@
 
 ---
 
-## Technical & Operational Requirements: GFE Restricted Account
+## Technical & Operational Requirements: GFE Restricted Fund Account (RCA)
 
 ### 1. Account Architecture: "The Fiduciary Shell"
-The bank must establish a **Restricted Cash Account (RCA)** or an **Escrow-managed Account** separate from the corporate General Ledger.
-* **Account Type:** Interest-bearing Fiduciary Account.
+The bank must establish a **Restricted Fund Account (RCA)** as a dedicated fiduciary sub-account separate from the corporate General Ledger.
+* **Account Type:** Interest-bearing Fiduciary/Restricted Account.
 * **Legal Ownership:** The Corporation (e.g., Home Depot / Amazon) as the nominal owner, held "In Benefit Of" (IBO) the designated employee pool.
 * **Isolation Protocol:** Funds in this account must be legally shielded from corporate creditors and must not be reported as corporate revenue or assets for tax/accounting purposes.
 
@@ -66,17 +66,17 @@ To maintain the high-trust model, the bank must provide:
 ## Feasibility Assessment (Current Banking Standards 2026)
 
 ### 1. The Banking Mechanism (Feasibility: High)
-Most major financial institutions like **JPMorgan Chase** or **Bank of America** have the infrastructure to create Escrow-style or Restricted Cash Accounts.
-* **Mechanism:** The account is opened by the corporation but governed by a specific Disbursement Agreement.
+Major financial institutions have the infrastructure to create **Restricted Fund Accounts (RCA)** via purpose-designated sub-accounts.
+* **Mechanism:** The account is opened by the corporation but governed by a specific Purpose-Restricted Disbursement Agreement.
 * **Constraint:** The bank acts as a "gatekeeper," ensuring funds only go to the payroll system for the designated employees.
 
 ### 2. Legal & Regulatory Compliance (Feasibility: Medium)
-* **Tax Implications:** Tax authorities must recognize these as gifts or community support to avoid classification as corporate income.
-* **KYC/AML:** Fintech APIs in 2026 now handle automated KYC checks for high-volume, decentralized micro-donations efficiently.
+* **Tax Implications:** Tax authorities must recognize these as community support to avoid classification as corporate income.
+* **KYC/AML:** Fintech APIs in 2026 handle automated KYC checks for high-volume donations efficiently.
 * **Fiduciary Responsibility:** Ensuring the company does not take on unintended pension or benefits liabilities.
 
 ### 3. Payroll Integration (Feasibility: High)
-* **The Bridge:** Corporate treasury marks the restricted account as the "Source of Truth" for the payroll run.
+* **The Bridge:** Corporate treasury marks the RCA as the "Source of Truth" for the payroll run.
 * **Transparency:** Utilizes existing direct deposit details already in the payroll system.
 
 ---
@@ -95,7 +95,7 @@ Most major financial institutions like **JPMorgan Chase** or **Bank of America**
 | Phase | Action | Purpose |
 | :--- | :--- | :--- |
 | **I. Authorization** | Corporate Board Approval | To legally allow the company to host a community-backed fund. |
-| **II. Bank Setup** | Open "GFE Restricted Account" | To isolate community funds from corporate capital. |
+| **II. Bank Setup** | Open "GFE Restricted Fund Account" | To isolate community funds from corporate capital. |
 | **III. Third-Party Audit** | Appoint an Independent Auditor | To provide the "Live Dashboard" data and ensure donor trust. |
 | **IV. Launch** | Publish Account Details | To allow the global #GiveOne community to begin contributions. |
 
