@@ -110,5 +110,7 @@ You enjoy every moment of life while giving just 1%! Let us all hold hands and p
 * **Instagram:** [The Aura Impact](https://instagram.com)
 * **Website:** [The Aura Impact Platform](https://theauraimpact.com)
 
+---
+
 ### ⚠️ Disclaimer
 This framework is a self-commitment for giving by an individual and is not associated with any specific person or organization. The Aura Impact does not collect, hold, or manage charitable funds. All GFE initiatives require formal authorization by the respective companies and must comply with regional financial and employment laws.
