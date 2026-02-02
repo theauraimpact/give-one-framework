@@ -1,13 +1,14 @@
-# Technical & Operational Requirements: Givers Fund for Employees (GFE) Account
+# Technical & Operational Requirements: GiveOne GFE Restricted Account
 
-**Subject:** Establishment of a Restricted Fiduciary Account for Community-Backed Salary Bridges  
-**Initiative:** The Aura Impact / Golden Runway Framework  
+**Subject:** Establishment of a Restricted Fiduciary Account for the Givers Fund for Employees (GFE)  
+**Framework:** GiveOne: The Universal Blueprint for Collective Power  
+**Mission:** A decentralized, self-commitment framework for direct giving (1% Earnings / 1% Time)  
 **Target Stakeholders:** Corporate Treasury, Banking Partners (Institutional/Commercial), and Legal Counsel  
 
 ---
 
 ## 1. Executive Summary
-The Givers Fund for Employees (GFE) requires a specialized banking structure to hold community-contributed funds. These funds are designated strictly for the continued compensation of employees affected by corporate restructuring. The goal is to create a "Salary Bridge" that is technically integrated with corporate payroll but legally and financially isolated from corporate assets.
+Under the **GiveOne Framework**, the Givers Fund for Employees (GFE) provides a high-trust, decentralized system to support individuals impacted by corporate restructuring (e.g., The Home Depot, Amazon). The GFE initiative requires a specialized banking structure that allows a global community to provide a community-backed "Salary Bridge" while utilizing a corporation's existing payroll infrastructure for secure, transparent distribution.
 
 ---
 
@@ -15,36 +16,36 @@ The Givers Fund for Employees (GFE) requires a specialized banking structure to 
 The banking partner must establish a **Restricted Cash Account (RCA)** or an **Escrow-managed Account** with the following parameters:
 
 * **Account Type:** Interest-bearing Fiduciary Account.
-* **Legal Designation:** Held by the Corporation "In Benefit Of" (IBO) the designated employee pool.
-* **Asset Protection:** Funds must be legally shielded from corporate creditors and excluded from the corporation’s General Ledger (GL) to avoid classification as corporate revenue.
-* **Tax Compliance:** Structured to ensure contributions are treated as third-party gifts or support payments, minimizing tax liability for the host corporation.
+* **Legal Designation:** Held by the host Corporation "In Benefit Of" (IBO) the specifically designated employee pool.
+* **Non-Accumulation Policy:** In alignment with GiveOne principles, this account is a pass-through mechanism, not a fund for long-term accumulation or corporate investment.
+* **Asset Isolation:** Funds must be legally shielded from corporate creditors and excluded from the corporation’s General Ledger (GL) to avoid classification as corporate revenue or profit.
 
 ---
 
-## 3. Inbound Funding Rails (Community Contributions)
-To facilitate global, high-volume contributions from the **#GiveOne** movement:
+## 3. Inbound Funding Rails (The #GiveOne Movement)
+To support the self-commitment model where givers worldwide provide direct support:
 
-* **API-Driven Integration:** The account must support webhooks and API connectivity with modern payment processors (e.g., Stripe, Plaid, or Adyen).
-* **Automated KYC/AML:** Real-time Anti-Money Laundering (AML) and Know Your Customer (KYC) screening for all inbound micro-transactions.
-* **Source Categorization:** Ability to tag and track funds by specific campaign IDs (e.g., `#GFE-HomeDepot-800`).
+* **API-Driven Integration:** The account must support webhooks and connectivity with payment processors (e.g., Stripe, Plaid) to handle thousands of micro-contributions.
+* **Source Transparency:** Ability to tag and track contributions by specific GFE campaigns (e.g., `#GFE-HomeDepot-800` or `#GFE-Amazon-16000`).
+* **Compliance Automation:** Real-time Anti-Money Laundering (AML) and Know Your Customer (KYC) screening to ensure the integrity of the community-backed fund.
 
 ---
 
 ## 4. Disbursement Strategy (The Salary Bridge)
-The account serves as a "mirror" to the standard payroll system:
+The GFE account serves as the funding source for the transition period between corporate severance/extension and new employment:
 
-* **Restricted Outflow:** Funds may only be transferred to the corporate **Payroll Clearing Account**.
-* **Disbursement Trigger:** Transfers are authorized only when matched against the verified list of affected employees.
-* **Non-Commingling:** Strict prohibition of fund transfers from the GFE account to any corporate operating or investment accounts.
+* **Restricted Outflow:** Funds are authorized for transfer *only* to the corporate **Payroll Clearing Account**.
+* **Direct Integration:** Payments are distributed through the company’s existing payroll system at the usual frequency and amount, maintaining employee benefits and tax withholding integrity.
+* **Sustainability:** Support continues until each individual secures new employment, at which point their allocation is redistributed or the account is closed.
 
 ---
 
-## 5. Transparency & Auditing Requirements
-To maintain public trust and provide data for the **Golden Runway Dashboard**:
+## 5. Transparency & Live Dashboard Requirements
+To maintain the "SuperHuman" progress standards of **The Aura Impact**:
 
-* **Read-Only API Access:** Secure, real-time data feed for third-party auditors to verify balances and outflows.
-* **Live Attestation:** Automated daily reports confirming that 100% of the daily "Committed Contributions" were allocated toward employee support.
-* **Public Verification:** Capacity to provide a "Proof of Reserves" to the community without compromising individual employee privacy.
+* **Live Data Feed:** A secure, read-only API access point to power a public dashboard tracking funds received and the number of employees currently supported.
+* **Impact Verification:** Capacity for the community to verify that 100% of contributions are reaching the intended recipients without overhead loss.
+* **Daily Attestation:** Automated reporting confirming the daily balance matches the "Committed Contributions" reported by the framework.
 
 ---
 
@@ -52,5 +53,15 @@ To maintain public trust and provide data for the **Golden Runway Dashboard**:
 
 | Phase | Milestone | Primary Responsibility |
 | :--- | :--- | :--- |
-| **I** | **DACA Agreement:** Sign a Deposit Account Control Agreement. | Corporate Legal / Bank |
-| **
+| **I** | **Authorization:** Board approval to host the GiveOne GFE initiative. | Corporate Leadership |
+| **II** | **DACA Agreement:** Sign a Deposit Account Control Agreement with the Bank. | Corporate Legal / Bank |
+| **III** | **Payroll Mapping:** Sync GFE account as the funding source for the target group. | HRIS / Payroll Dept |
+| **IV** | **Go-Live:** Announce the #GiveOne GFE account to the global community. | Treasury / Aura Impact |
+
+---
+
+## 7. Contact Information
+For technical clarification regarding the GiveOne implementation, please contact **The Aura Impact** team.
+
+**Framework Reference:** [GiveOne Framework Repository](https://github.com/theauraimpact/give-one-framework)
+**Email:** theauraimpact@gmail.com
