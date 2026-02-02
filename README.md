@@ -69,6 +69,8 @@ We are working to establish the GFE system starting with the 800 impacted indivi
 5.  **Transition Management:** Once 100% monthly support for the target group is reached, support continues until each individual secures a new job. The GFE bank account will be closed after all individuals have successfully transitioned to new employment.
 6.  **Scaling the Success:** Once established at The Home Depot, the system will be scaled to support larger groups, such as the 16,000 employees impacted at Amazon on **Jan 28th, 2026**.
 
+Check out GFE Implementation details on this page [GFE](GFE.md).
+
 ---
 
 ## 🚦 Smart Giving & Sustainability 
