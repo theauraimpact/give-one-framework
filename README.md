@@ -40,7 +40,8 @@ If everyone in a city donates 1% to people in their own city, no one in that cit
 
 ### 2. Diversified Impact
 A self-committed contribution to bring the change we want to see in the world. Donate to any cause you are interested in:
-* Supporting the elderly, the poor, the disabled, or orphans.
+* Support relatives, friends, colleagues, anyone you encounter who needs some financial help
+* Elderly, physically challenged, or orphans.
 * Medical assistance and sponsoring education for the talented.
 * Helping animals, the environment, science, and research.
 * **Verification:** Ensure every contribution is spent right if not giving directly; see the difference it makes.
@@ -55,10 +56,10 @@ Giving to those who cannot afford can be integrated into your profession:
 ---
 
 ## 🛡️ High-Priority Application: Givers Fund for Employees (GFE)
-To launch the GiveOne project, we are addressing a high-priority need for January 2026: supporting individuals impacted by massive corporate layoffs. The GFE is a high-trust, decentralized system designed to continue the current salary of impacted employees until they secure new employment.
+To launch the GiveOne project, we are addressing a high-priority need for **January 2026:** supporting individuals impacted by massive corporate layoffs. The GFE is a high-trust, decentralized system designed to continue the current salary of impacted employees until they secure new employment.
 
 ### ✈️ First active reachout: The Home Depot (800 Employees)
-We are working to establish the GFE system starting with the 800 impacted individuals at The Home Depot due to layoffs on Jan 28th 2026. The goal is to ensure their monthly take-home pay continues without interruption through a community-backed "Givers Fund for Employees."
+We are working to establish the GFE system starting with the 800 impacted individuals at The Home Depot due to layoffs on **Jan 28th 2026**. The goal is to ensure their monthly take-home pay continues without interruption through a community-backed "Givers Fund for Employees."
 
 ### ⚙️ The GFE Blueprint (6-Step Execution)
 1.  **Institutional Setup:** Create a bank account authorized by the company (e.g., The Home Depot).
@@ -66,27 +67,26 @@ We are working to establish the GFE system starting with the 800 impacted indivi
 3.  **Payroll Integration:** Payments are distributed through the company’s existing payroll at the usual frequency and amount. This ensures trust and removes the "disclaimer" risks of personal fund accumulation.
 4.  **Awareness & Transparency:** The Aura Impact team uses its channels to reachout for global awareness of the GFE account and hosts a live dashboard tracking funds received and the number of employees currently supported.
 5.  **Transition Management:** Once 100% monthly support for the target group (e.g., 800 people) is reached, support continues until each individual secures a new job. GFE bank account created will be closed after all 800 individuals are successfully transitioned to equally happy new job.
-6.  **Scaling the Success:** Once the GFE system is successfully established at The Home Depot, it will be scaled to support larger groups, such as the 16,000 employees layoff announcement at Amazon on Jan 28th 2026.
+6.  **Scaling the Success:** Once the GFE system is successfully established at The Home Depot, it will be scaled to support larger groups, such as the 16,000 employees layoff announcement at Amazon on **Jan 28th 2026**.
 
 ---
 
 ## 🚦 Smart Giving & Sustainability 
 To ensure the GiveOne framework elevates humanity sustainably:
-* **Self-Preservation:** Take care of yourself while giving. Be successful in life to earn more so you can give more; stay strong and healthy so you can donate your time and energy.
+
 * **Innovative Solutions:** Giving models should be brought into the system with sustainable innovative solutions that continue for generations.
-* **Global Motivation:** Send videos of your implemented ideas for solving real-world problems. We will publish them to motivate others to replicate those models everywhere.
+* **Global Motivation:** Send videos of your implemented ideas for solving real-world problems to *theauraimpact@gmail.com**. We will publish them to motivate others to replicate those models everywhere.
 * **Direct Action:** Give to those in need or nature in a way that you can verify the impact yourself by directly giving to beneficiary.
 * **No Accumulation:** The Aura Impact never holds your giving funds. You are the architect of your own 1%.
 * **Family Support First:** Supporting an employee means supporting a whole family. Focus on initiatives like GFE that preserve family stability.
 * **Nature in Balance:** Your 1% is equally dedicated to the environment to ensure "SuperHuman" progress doesn't come at the cost of the Earth.
+* * **Self-Preservation:** Take care of yourself while giving. Be successful in life to earn more so you can give more; stay strong and healthy so you can donate your time and energy.
 
 ---
 
 ## 🤝 How to Participate
-1.  **Adopt the Blueprint:** Review the principles of the 1% commitment.
-2.  **Self-Commit:** Use the Liquid Cash 24 calculator to ensure your own stability, then commit your 1% surplus to the GiveOne framework.
-3.  **Support GFE:** When the Givers Fund for Employees accounts are announced for The Home Depot or Amazon, use your 1% time to support a fellow human’s career transition. 
-
+1.  **Self-Commit:** Use the Liquid Cash 24 calculator to ensure your own stability, then commit your 1% surplus to the GiveOne framework.
+2.  **Support GFE:** When the Givers Fund for Employees accounts are announced for The Home Depot or Amazon, use your 1% time to support a fellow human’s career transition. 
 We are actively looking for partners (Banks, Corporations, and Authorities) to turn this visionary concept into a global standard.
 * **Financial Institutions:** Help us architect the restricted GFE accounts with JPMorgan Chase or other authorities.
 * **Corporate Leaders:** If your company is facing a transition, contact us to implement a GFE for any layoffs planned.
