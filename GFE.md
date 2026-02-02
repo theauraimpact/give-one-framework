@@ -26,7 +26,7 @@
 | **Stability** | Prevents family financial crises, maintaining community goodwill. |
 | **Global Standard** | Pioneers a new standard for collective responsibility. |
 
-**Call to Action: The January 28th Initiative** We are seeking to immediately architect the Restricted Fund Accounts (RCA) with your designated financial partners (e.g., JPMorgan Chase).  
+**Call to Action:** We are seeking to immediately architect the Restricted Fund Accounts (RCA) with your designated financial partners (e.g., JPMorgan Chase).  
 **Next Step:** A 15-minute briefing with your HR and Treasury leadership to review the restricted account parameters.  
 **Contact:** theauraimpact@gmail.com  
 **Website:** [The Aura Impact Platform](https://theauraimpact.io)
