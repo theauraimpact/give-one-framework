@@ -77,7 +77,7 @@ Check out GFE Implementation details on this page [GFE](GFE.md).
 To ensure the GiveOne framework elevates humanity sustainably:
 
 * **Innovative Solutions:** Giving models should be sustainable and continue for generations.
-* **Global Motivation:** Send videos of your implemented ideas to **theauraimpact@gmail.com**. We will publish them to motivate others to replicate those models everywhere.
+* **Global Motivation:** Send videos of your implemented ideas to **collaborate@theauraimpact.io**. We will publish them to motivate others to replicate those models everywhere.
 * **Direct Action:** Give to those in need or nature in a way that you can verify the impact yourself.
 * **No Accumulation:** The Aura Impact never holds your giving funds. You are the architect of your own 1%.
 * **Family Support First:** Supporting an employee means supporting a whole family. Initiatives like GFE focus on preserving family stability.
@@ -95,7 +95,7 @@ To ensure the GiveOne framework elevates humanity sustainably:
 * **Corporate Leaders:** Contact us to implement a GFE for any planned layoffs.
 * **Visionaries:** Join us in making the world aware of "Givers Fund for Employees" (GFE).
 
-**Email:** theauraimpact@gmail.com
+**Email:** collaborate@theauraimpact.io
 
 ---
 
