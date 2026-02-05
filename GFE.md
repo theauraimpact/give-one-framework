@@ -28,7 +28,7 @@
 
 **Call to Action:** We are seeking to immediately architect the Restricted Fund Accounts (RCA) with your designated financial partners (e.g., JPMorgan Chase).  
 **Next Step:** A 15-minute briefing with your HR and Treasury leadership to review the restricted account parameters.  
-**Contact:** theauraimpact@gmail.com  
+**Contact:** collaborate@theauraimpact.io  
 **Website:** [The Aura Impact Platform](https://theauraimpact.io)
 
 *"True innovation happens when technology elevates humanity—turning a career transition into a community triumph."*
