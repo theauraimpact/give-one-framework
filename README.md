@@ -107,9 +107,9 @@ You enjoy every moment of life while giving just 1%! Let us all hold hands and p
 ---
 
 ## 🌐 Connect & Learn
-* **YouTube**: [The Aura Impact Channel](https://www.youtube.com/@TheAuraImpact) – *Deep dives and explainer videos.*
-* **LinkedIn**: [The Aura Impact Page](https://www.linkedin.com/company/theauraimpact) – *Corporate announcements and networking.*
-* **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpact) – *Awareness and community.*
+* **YouTube**: [The Aura Impact Channel](https://www.youtube.com/@theauraimpactpbc) – *Deep dives and explainer videos.*
+* **LinkedIn**: [The Aura Impact Page](https://www.linkedin.com/company/theauraimpactpbc) – *Corporate announcements and networking.*
+* **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpactpbc) – *Awareness and community.*
 * **Website:** [The Aura Impact Platform](https://theauraimpact.io) - *Open source collaboration platform.*
 
 ---
